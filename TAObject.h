@@ -1,6 +1,3 @@
-//
-// Created by Лев on 04.06.2021.
-//
 
 #ifndef UNTITLED2_TAOBJECT_H
 #define UNTITLED2_TAOBJECT_H

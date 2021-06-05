@@ -1,6 +1,4 @@
-//
-// Created by Лев on 05.06.2021.
-//
+
 #include <cmath>
 #include <iostream>
 #include "TAirport.h"

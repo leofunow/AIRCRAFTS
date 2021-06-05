@@ -1,6 +1,3 @@
-//
-// Created by Лев on 04.06.2021.
-//
 
 #include "TAObject.h"
 

@@ -1,7 +1,3 @@
-//
-// Created by Лев on 05.06.2021.
-//
-
 #ifndef UNTITLED2_TAIRCRAFT_H
 #define UNTITLED2_TAIRCRAFT_H
 
